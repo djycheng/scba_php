@@ -1,0 +1,29 @@
+{
+  "name": "scba",
+  "version": "1.0.0",
+  "description": "Website for the Society of Bioscientists in America, DC chapter",
+  "main": "index.html",
+  "dependencies": {
+    "popper.js": "^1.11.1",
+    "bootstrap": "^4.0.0-beta",
+    "jquery": "^3.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/djycheng/scba.git"
+  },
+  "keywords": [
+    "SCBA"
+  ],
+  "author": "Daniel Cheng",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/djycheng/scba/issues"
+  },
+  "homepage": "https://github.com/djycheng/scba#readme"
+}
