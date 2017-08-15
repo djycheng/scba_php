@@ -1,0 +1,12 @@
+.navbar {
+	height: 10vh;
+	line-height: 8vh;
+}
+
+.nav-item {
+	vertical-align: middle;
+}
+
+#header {
+	height: 8vh;
+}
