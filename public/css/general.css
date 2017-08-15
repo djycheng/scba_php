@@ -1,0 +1,5 @@
+/* Move down content because we have a navbar that is 10vh tall */
+body {
+  padding-top: 10vh;
+  background-color: #e9ecef;
+}

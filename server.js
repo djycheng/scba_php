@@ -12,6 +12,14 @@ app.get('/', function (req, res) {
   res.render('pages/index');
 });
 
+app.get('/about', function (req, res) {
+  res.render('pages/about');
+});
+
+app.get('/membership', function (req, res) {
+  res.render('pages/membership');
+});
+
 app.listen(3000, function () {
   console.log('Example app listening on port 3000!');
 });
