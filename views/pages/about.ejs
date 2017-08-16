@@ -5,9 +5,48 @@
   </head>
 
   <body>
+    <div class="container drop-shadow">
+      <% include ../partials/navbar %>
+      <div class="container">
+        <h2>
+          About Us:
+        </h2>
 
-    <% include ../partials/navbar %>
+        <div class="row">
+          <div class="col-md-6">
+            <h3>Information</h3>
+            <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
+          </div>
+          <div class="col-md-6">
+            <h3>Information</h3>
+            <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
+          </div>
+        </div>
 
+        <div class="table-responsive">
+          <h3>Table of Presidents</h3>
+          <table class="table">
+            <tr>
+              <% for (var i = 0; i < presidents[0].length; i++) { %>
+                <th><%= presidents[0][i] %></th>
+              <% } %>
+            </tr>
+
+            <% for (var i = 1; i < presidents.length; i++) { %>
+              <tr>
+                <% for (var j = 0; j < presidents[i].length; j++) { %>
+                  <td><%= presidents[i][j] %></td>
+
+                <% } %>
+
+              </tr>
+            <% } %>
+          </table>
+        </div>
+
+        <% include ../partials/footer %>
+      </div>
+    </div>
   </body>
 
 </html>
