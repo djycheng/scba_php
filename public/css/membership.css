@@ -1,3 +1,6 @@
-.filler {
-	height: 2vh;
+#memberImage {
+	display: block;
+	margin: auto;
+	height: 60%;
+	width: 60%;
 }

@@ -20,6 +20,10 @@ app.get('/membership', function (req, res) {
   res.render('pages/membership');
 });
 
+app.get('/news', function (req, res) {
+  res.render('pages/news');
+});
+
 app.listen(3000, function () {
   console.log('Example app listening on port 3000!');
 });

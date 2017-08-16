@@ -1,6 +1,19 @@
 .navbar {
 	height: 10vh;
-	line-height: 8vh;
+	border-radius: 0;
+}
+
+.navbar-custom {
+	background-color: #454770;
+	color: #ffffff;
+}
+
+.navbar-custom .navbar-nav > li > a {
+	color: #fff;
+}
+
+.navbar-custom .navbar-nav > li > a:hover {
+	background-color: #6063a5;
 }
 
 .nav-item {
@@ -8,5 +21,9 @@
 }
 
 #header {
-	height: 8vh;
+	height: 7vh;
+}
+
+#customItem:hover {
+	background-color: transparent;
 }
