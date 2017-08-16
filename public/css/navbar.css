@@ -1,18 +1,18 @@
 .navbar {
-	height: 10vh;
+	background-color: #454770;
 	border-radius: 0;
 }
 
-.navbar-custom {
+.navbar-collapse {
 	background-color: #454770;
 	color: #ffffff;
 }
 
-.navbar-custom .navbar-nav > li > a {
+.navbar-default .navbar-nav > li > a {
 	color: #fff;
 }
 
-.navbar-custom .navbar-nav > li > a:hover {
+.navbar-default .navbar-nav > li > a:hover {
 	background-color: #6063a5;
 }
 
@@ -20,8 +20,14 @@
 	vertical-align: middle;
 }
 
-#header {
-	height: 7vh;
+.navbar-brand {
+	margin: 0;
+	padding: 0;
+}
+
+.navbar-brand img {
+	max-height: 100%;
+	max-width: auto;
 }
 
 #customItem:hover {
