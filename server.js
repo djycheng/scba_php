@@ -24,6 +24,14 @@ app.get('/news', function (req, res) {
   res.render('pages/news');
 });
 
+app.get('/contact', function (req, res) {
+  res.render('pages/contact');
+});
+
+app.get('/conference', function (req, res) {
+  res.render('pages/conference');
+})
+
 app.listen(3000, function () {
   console.log('Example app listening on port 3000!');
 });
