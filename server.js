@@ -3,16 +3,6 @@ const app = express();
 const path = require('path');
 const csv = require('fast-csv');
 
-var presidents = []
-
-csv.fromPath(path.join(__dirname, 'presidents.csv'))
-   .on('data', function(data) {
-      presidents = presidents.concat([data]);
-   });
-   // .on('end', function() {
-   //    console.log(presidents);
-   // });
-
 app.set('view engine', 'ejs');
 
 app.use(express.static(path.join(__dirname, 'public')));
@@ -22,7 +12,14 @@ app.get('/', function (req, res) {
 });
 
 app.get('/about', function (req, res) {
-  res.render('pages/about', {presidents: presidents});
+  var presidents = []
+  csv.fromPath(path.join(__dirname, 'presidents.csv'))
+   .on('data', function(data) {
+      presidents = presidents.concat([data]);
+   })
+   .on('end', function() {
+      res.render('pages/about', {presidents: presidents});
+   });
 });
 
 app.get('/membership', function (req, res) {
