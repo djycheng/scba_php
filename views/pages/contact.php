@@ -17,7 +17,7 @@
 
     </ul>
 
-    <form>
+    <form id='contact' method="post">
       <label for="name">
         Full Name:
       </label>
@@ -46,9 +46,7 @@
       <div class="filler"></div>
       <div class="filler"></div>
 
-      <button type="button" class="btn btn-default" id="submit">
-        Submit
-      </button>
+      <input type="submit" class="btn btn-default" id="submit" name="submit" value="Send Message">
       <div class="filler"></div>
       <div class="filler"></div>
 

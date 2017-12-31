@@ -36,10 +36,11 @@
 
           }
 
-        ?>
-
-        <?php
-          include('views/partials/footer.html')
+          include('views/partials/footer.html');
+        
+          if ($pageName == 'contact') {
+            echo "<script src='/public/js/form.js'></script>";
+          }
         ?>
 
       </div>

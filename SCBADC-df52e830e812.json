@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "nice-unison-180121",
+  "private_key_id": "df52e830e812ab8a97bf69bbbba99d83626f60fd",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCahD/egsa+XCF0\nublbS5QEAsQN5iLndRDORyCmDNuOeovkLi7ucnxUkFVOpo7e07mIOs/3h3Gm5vb+\nfbf/qeBYOCbOo97E3i5WsZG3LzzcVOKKAIdB60xGap1cg53qWXt9E6Yw3h84wENk\nUCVx3EPNrP5EuMRS/6P/sjK7IRmm2Qn6hNLetyxs5mOp/QCJ526WjpAh/+IlIQ4g\nVZHRdEOh4DxngzDRG2akNnOtvLiLGNcVy3E2hrqW3U+tcijd7HxD28VNTilc2j4k\nyeIqDxEHGhzuKKhnF0tq3kpmohsOolnnme9wiBqVff/8xyykUb+/1DWPFAY7RDMK\nybPeJNGtAgMBAAECggEAFXger7oYB0ch1ugfWxILROtldlDttJ9NcHvti2Tp9MgO\nO+w21SbPI6jSUZVO8KMWellBoDEPl5Mr6nxpXnqqE1fp/HhEcbI1WhJeHsfPewXI\nXEhqgrxA4t/ZcYtQG8nHIL/kLZIPYIFGW9/O9B0YxrEsuzu4+5dNoC+QYPPebpIu\nG3ZG9furjoxgnb7tyly12YbB1isPzY1m1g/DVaDNhtblTqGk52SuomcOGPVtFbZq\ntKWMm5+7/UtDLSKtNQeoyNa/wpMCqzXfdTYiu9pGoPCawR7QYs0eBRW4bbkvQ3xE\nixLopvR+uYfGZsNeZ345nmuAII2WrOecZnizq5rZuQKBgQDYYgHSWwRBatVsdKk9\nQ9XphU8i7WEFXoCb7mVzBOfSmiMLxkrHecTUhAPOKgYiQfI8ZfkrY+lKcaa+mL4N\nIM+bOIz3WkQJRBKZl0B0xqEz9ga7KSSLpT2vXAvT23+PSZFf5uZ8XxNXasI/5ea/\nC6ov2yyGXFQUwQO9UEWuBLEEhwKBgQC2zojk1/cFfBR5ppSa7EKn69cIFYCANaP6\nOPMPoosdp/kfmzvMU8BVFt95JrpL+nKOAYL1N4hAYUjFXEjDE9igCDp9ZUU9qnKq\nXrYhCG0QFhn4Ejo3XP5NcoTwrvZS9kcfPkjZ94DcL+RndgTGIQrwh1fwiDjolHID\n3gUdgyE5KwKBgDGbnpFMfphE1vNLd7VtBPDJuE/onjKt7MxTBn0tJbzZy6kaZ/B9\nkUurjHfKmKdn+RIxysNQ355KmhDeUcwOtqn+eAsJbcm2CpGd5JAhLboM8JQeJZvC\nYXb/olKK4x7Fngeflz3ySivjdO9TVOh90yGvnPCc4EX1zlarvZ3cw3ynAoGAR1Ue\nW9Xd4TkCsFmNIUrR076WYOQrCVxlCQ3R4qb1i/PwpSGo2tlPcqSDPT4ccetfagQy\n+sbZlu2fPMv+5IhI/mFXmXi75Q0uw0ZD4W3tSNqm9YL/Tn0uCkCGmXhcTBEnvYxL\nVypaERFrGegWgs1//E2DxisRscfDGbk328VAYJMCgYB+ZOCq4B4ntgNReF3F5n9L\n96kt53rgwWm7liKevhFDBo7/fTODTebCI82DIkQj7qizD7qd5qpEXf81AuZxW9mz\n0RhO16x1t0yXLu6lvCvwcF+bipwTygcy/0XF43XdLiGEZJefqeOD9T3ZTa6AFjGb\n3yuYQqDi8ISsRi5DTTxycg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "scbadc@nice-unison-180121.iam.gserviceaccount.com",
+  "client_id": "115325714072464031110",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/scbadc%40nice-unison-180121.iam.gserviceaccount.com"
+}
