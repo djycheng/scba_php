@@ -10,7 +10,6 @@ ini_set('display_startup_errors',1);
 error_reporting(-1);
 
 $mail = new PHPMailer(true);
-echo 'in php doc';
 
 try {
     $mail->SMTPDebug = 2;
