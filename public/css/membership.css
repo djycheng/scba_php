@@ -4,3 +4,8 @@
 	height: 60%;
 	width: 60%;
 }
+
+.list-group-item {
+    background-color: transparent;
+    border: 0;
+}

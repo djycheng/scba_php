@@ -3,30 +3,47 @@
 <div class="row">
   <div class="col-md-6">
     <p>
-    	Membership benefits at the Washington D.C. chapter of SCBA include:
+    	Membership is open to all scientists, including principal investigators, staff, postdoctoral fellows, students, and those in other professions.  You do not have to be of Chinese heritage to join.
     </p>
+    <h3>Benefits</h3>
     
     <ul class="list-group">
     	<li class="list-group-item">
-    		Benefit #1
+    		Networking with bioscientists in the greater Washington DC area, US and around the world.
     	</li>
 
     	<li class="list-group-item">
-    		Benefit #2
+    		Eligibility to nominate members and being nominated to serve various SCBA and local chapter positions, and to receive SCBA awards in the SCBA biennial international symposium and at local chapter events.
     	</li>
 
     	<li class="list-group-item">
-    		Benefit #3
+    		Discounted registration fee at local chapter annual scientific symposium.
     	</li>
 
     	<li class="list-group-item">
-    		Benefit #4
+    		Discounted fee at other local chapter events such as holiday dinner.
     	</li>
+    </ul>
+
+    <h3>Membership Fees</h3>
+
+    <ul class="list-group">
+        <li class="list-group-item">
+            Life Regular (PI/Staff): $350 one time dues
+        </li>
+
+        <li class="list-group-item">
+            Regular (PI/Staff): $35/year
+        </li>
+
+        <li class="list-group-item">
+            Trainee: $15/year
+        </li>
     </ul>
 
     <div class="filler">&nbsp</div>
     <p>
-    	If you would like to join, find out more information <a href="http://www.scbasociety.org/Membership/Membership.html">here</a>.
+        <a href="http://www.scbasociety.org/Membership/Membership.html">Apply for membership and join SCBA here.</a>
     </p>
   </div>
   <div class="col-md-6">

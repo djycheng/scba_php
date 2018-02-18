@@ -11,6 +11,26 @@
     <p>
       Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui
     </p>
+    <br/>
+
+    <h4>
+      Agendas from Previous Symposiums
+    </h4>
+
+    <ul class="list-group">
+      <li class="list-group-item">
+        <a href="public/documents/2015_SCBA_Scientific_Symposium_Agenda_Final.pdf">2015 Symposium</a>
+      </li>
+
+      <li class="list-group-item">
+        <a href="public/documents/2016_SCBA_Scientific_Symposium_Agenda_Final.pdf">2016 Symposium</a>
+      </li>
+
+      <li class="list-group-item">
+        <a href="public/documents/2017_SCBA_Scientific_Symposium_Agenda_Final.pdf">2017 Symposium</a>
+      </li>
+    </ul>      
+
   </div>
 
   <div class="col-md-6">

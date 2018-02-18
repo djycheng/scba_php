@@ -1,0 +1,25 @@
+.about {
+    text-indent: 40px;
+}
+
+.list-group-item {
+    background-color: transparent;
+    border: 0;
+}
+
+#leadership td {
+    border-top: 0;
+    width: auto;
+    padding: 4px;
+    font-size: 14px;
+}
+
+#previous-presidents caption {
+    caption-side: bottom;
+    font-size: 13px;
+}
+
+#previous-presidents td {
+    padding: 4px;
+    font-size: 14px;
+}
