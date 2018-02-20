@@ -2,3 +2,9 @@
     background-color: transparent;
     border: 0;
 }
+
+#submit {
+    background-color: #454770;
+    border: transparent;
+    color: #ffffff;
+}

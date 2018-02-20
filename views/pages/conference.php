@@ -8,29 +8,45 @@
       About the Symposium
     </h3>
 
-    <p>
-      Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui
-    </p>
-    <br/>
+    <ul class="list-group">
+      <li class="list-group-item">
+        The 2018 SCBA annual symposium will be held at Johns Hopkins University, Shady Grove Campus on Saturday, March 24, 2018.
+      </li>
 
-    <h4>
-      Agendas from Previous Symposiums
-    </h4>
+      <li class="list-group-item">
+        To register, please fill out the form on the right.
+      </li>
+    </ul>
+
+    <h3>
+      Meeting Highlights
+    </h3>
 
     <ul class="list-group">
       <li class="list-group-item">
-        <a href="public/documents/2015_SCBA_Scientific_Symposium_Agenda_Final.pdf">2015 Symposium</a>
+        Outstanding presentations by prominent scientists from the National Institutes of Health, Johns Hopkins, Georgetown University and more.<br/>Keynote speaker: Dr. Chuxia Deng.
       </li>
 
       <li class="list-group-item">
-        <a href="public/documents/2016_SCBA_Scientific_Symposium_Agenda_Final.pdf">2016 Symposium</a>
+        Opportunities for oral presentations and poster awards with prizes (top 25% submitted).
       </li>
 
       <li class="list-group-item">
-        <a href="public/documents/2017_SCBA_Scientific_Symposium_Agenda_Final.pdf">2017 Symposium</a>
+        Career panel discussions featured with new PIs who will share their insights for applications of grants and positions, followed by a Q&A from academic and industrious mentors.
       </li>
-    </ul>      
 
+      <li class="list-group-item">
+        Networking with PIs and peers in the Washington D.C./Baltimore area.
+      </li>
+
+      <li class="list-group-item">
+        Explore job openings from various PIs at NIH and the Washington D.C./Baltimore area.
+      </li>
+
+      <li class="list-group-item">
+        Opportunities to interact with local pharmaceutical and industrious representatives to learn about potential jobs and useful products.
+      </li>
+    </ul>   
   </div>
 
   <div class="col-md-6">
@@ -99,5 +115,27 @@
       </button>
       <div class="filler"></div>
       <div class="filler"></div>
+  </div>
+</div>
+
+<div class="row">
+  <div class="col-md-6">
+    <h3>
+      Agendas from Previous Symposiums
+    </h3>
+
+    <ul class="list-group">
+      <li class="list-group-item">
+        <a href="public/documents/2015_SCBA_Scientific_Symposium_Agenda_Final.pdf">2015 Symposium</a>
+      </li>
+
+      <li class="list-group-item">
+        <a href="public/documents/2016_SCBA_Scientific_Symposium_Agenda_Final.pdf">2016 Symposium</a>
+      </li>
+
+      <li class="list-group-item">
+        <a href="public/documents/2017_SCBA_Scientific_Symposium_Agenda_Final.pdf">2017 Symposium</a>
+      </li>
+    </ul>
   </div>
 </div>
