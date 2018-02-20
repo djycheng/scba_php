@@ -7,7 +7,7 @@
   function getCSSProperty($file)
   {
     if (file_exists($file)) {
-      echo '<link href="' . $file . '" rel=stylesheet>';
+      echo '<link href="/' . $file . '" rel=stylesheet>';
     }
   }
 
@@ -15,32 +15,21 @@
   {
     $news_path = 'views/pages/news/';
     $prev = (string) (strval($article) - 1);
+    $leftSide = '&laquo Previous Article';
     $next = (string) (strval($article) + 1);
+    $rightSide = 'Next Article &raquo';
 
     if (file_exists($file = $news_path . $prev . '.php')) {
-      $leftButton = generateArrowButton('left', '/news/' . $prev);
-    } else {
-      $leftButton = generateArrowButton('left');
+      $leftSide = '<a href="/news/' . $prev . '">' . $leftSide . '</a>';
+
     }
 
     if (file_exists($file = $news_path . $next. '.php')) {
-      $rightButton = generateArrowButton('right', '/news/' . $next);
-    } else {
-      $rightButton = generateArrowButton('right');
+      $rightSide = '<a href="/news/' . $next . '">'. $rightSide . '</a>';
+
     }
 
-    echo '<div class="row">' . $leftButton . $rightButton . '</div>';
-  }
-
-  function generateArrowButton($direction, $path = null)
-  {
-    $button = '<button class="glyphicon glyphicon-arrow-' . $direction . ' ' . (is_null($path) ? 'faded' : 'filled') . '"></button>';
-
-    if (!is_null($path)) {
-      return '<a href="' . $path . '">' . $button . '</a>';
-    } else {
-      return $button;
-    }
+    echo '<div class="row"><div class="col-md-12">' . $leftSide . ' | ' . $rightSide . '</div></div><hr>';
   }
 
   $pageName = getPageName(0);

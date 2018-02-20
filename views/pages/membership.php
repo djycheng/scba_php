@@ -47,7 +47,7 @@
     </p>
   </div>
   <div class="col-md-6">
-    <img id="memberImage" src="public/images/conference.jpg">
+    <img id="memberImage" src="/public/images/conference.jpg">
   </div>
 </div>
 

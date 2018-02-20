@@ -41,19 +41,29 @@
   <!-- Example row of columns -->
   <div class="row">
     <div class="col-md-4">
-      <h2>Heading</h2>
-      <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
-      <p><a class="btn btn-secondary" href="#" role="button">View details &raquo;</a></p>
+      <h4><b>The Annual Scientific Symposium</b></h4>
+      <p>About 100 active members of the SCBA DC Baltimore Chapter convened at the Johns Hopkins University Shady Grove Conference Center situated in Rockville, Maryland on a beautiful Saturday, March 18, 2017.</p>
     </div>
     <div class="col-md-4">
-      <h2>Heading</h2>
-      <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
-      <p><a class="btn btn-secondary" href="#" role="button">View details &raquo;</a></p>
+      <h4><b>The Annual Holiday Gala</b></h4>
+      <p>Tuesday evening, December 19, 2017 was a special night for members and their friends of the SCBA DC Baltimore Chapter, who gathered at the New Forture Chinese restaurant located in Gaithersburg, Maryland for their annual holiday gala.</p>
     </div>
     <div class="col-md-4">
-      <h2>Heading</h2>
-      <p>Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vestibulum id ligula porta felis euismod semper. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
-      <p><a class="btn btn-secondary" href="#" role="button">View details &raquo;</a></p>
+      <h4><b>Register for our Annual Symposium!</b></h4>
+      <p>The 2018 SCBA annual symposium will be held at Johns Hopkins University, Shady Grove Campus on Saturday, March 24, 2018.</p>
+    </div>
+  </div>
+  <div class="row":>
+    <div class="col-md-4">
+      <p><a class="btn btn-secondary" href="/news/2" role="button">Read More &raquo;</a></p>
+    </div>
+
+    <div class="col-md-4">
+      <p><a class="btn btn-secondary" href="/news/1" role="button">Read More &raquo;</a></p>
+    </div>
+
+    <div class="col-md-4">
+      <p><a class="btn btn-secondary" href="/conference" role="button">Read More &raquo;</a></p>
     </div>
   </div>
 </div>

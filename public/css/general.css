@@ -14,3 +14,8 @@ body {
     padding-left:0;
     padding-right:0;
 }
+
+.list-group-item {
+    background-color: transparent;
+    border: 0;
+}
