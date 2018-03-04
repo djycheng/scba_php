@@ -14,18 +14,6 @@
 </div>
 
 <div class="row">
-  <div class="col-md-6">
-    <h3>Photos</h3>
-    <p>View photos from our events!</p>
-    <ul>
-      <li>
-        <a href="https://goo.gl/photos/MEoTRZqTHbg5TjyF7">SCBA-DC Christmas Dinner Party 2016</a>
-      </li>
-    </ul>
-  </div>
-</div>
-
-<div class="row">
   <div class="col-md-8">
     <h3>
       Current Leadership

@@ -1,5 +1,5 @@
 <h2>
-  SCBA Annual Scientific Symposium 2017
+  SCBA Annual Scientific Symposium
 </h2>
 
 <div class="row">

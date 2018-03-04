@@ -18,7 +18,7 @@ function allowKeyPress(text) {
 $("#contact").submit(function(event) {
     event.preventDefault()
     $.ajax({
-        url: "/public/functions/submit_form.php",
+        url: "/public/functions/submit_contact.php",
         type: "POST",
         data: {
             name: $("#name").val(),

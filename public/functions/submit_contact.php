@@ -36,7 +36,8 @@ try {
     );
 
     if (isset($_POST['email'])) {
-        $mail->setFrom('', 'SCBA');
+        $mail->setFrom('scbawashingtondc@gmail.com', 'SCBA');
+        $mail->addAddress('');
         $mail->addAddress('');
         $mail->addReplyTo($_POST['email']);
 
@@ -59,5 +60,6 @@ try {
 } catch (Exception $e) {
     echo 'Message could not be sent';
     echo 'Mailer error: ' . $mail->ErrorInfo;
+    header($_SERVER['SERVER_PROTOCOL'] . ' 400 Bad Request', true, 400);
 }
 ?>
