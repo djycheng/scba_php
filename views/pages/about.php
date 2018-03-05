@@ -3,7 +3,7 @@
 </h2>
 
 <div class="row">
-  <div class="col-md-6">
+  <div class="col-md-8">
     <p class="about">
       The Society of Chinese Bioscientists in America (SCBA) is a non-profit organization that was established in 1984. The Washington D.C.-Baltimore Chapter of SCBA was formed in 1988 with Dr. Shen Kui Yang, then a professor in Department of Pharmacology at Uniformed Services University of the Health Sciences, as its first Chapter President.
     </p>
@@ -19,7 +19,36 @@
       Current Leadership
     </h3>
 
-    <table class="table" id="leadership">
+    <span class="col-md-3">
+      <figure class="board-pic">
+        <img src="/public/images/board/yang-li.jpg">
+        <figcaption>President:<br/>Dr. Li Yang</figcaption>
+      </figure>
+    </span>
+
+    <span class="col-md-3">
+      <figure class="board-pic">
+        <img src="/public/images/board/luo-ji.jpg">
+        <figcaption>President-Elect:<br/>Dr. Ji Luo</figcaption>
+      </figure>
+    </span>
+
+    <span class="col-md-3">
+      <figure class="board-pic">
+        <img src="/public/images/board/chunzhang_yang_-_2015_235_px.jpg">
+        <figcaption>Treasurer:<br/>Dr. Chunzhong Yang</figcaption>
+      </figure>
+    </span>
+
+    <span class="col-md-3">
+      <figure class="board-pic">
+        <img src="/public/images/board/Jiang_Yufei.jpeg">
+        <figcaption>Secretary:<br/>Dr. Yufei Jiang</figcaption>
+      </figure>
+    </span>
+
+<!-- Table below is for without pictures
+     <table class="table" id="leadership">
       <tr>
         <td class="col-md-4">President:</td>
         <td class="col-md-4">Dr. Li Yang</td>
@@ -39,8 +68,8 @@
         <td class="col-md-4">Secretary:</td>
         <td class="col-md-4">Dr. Yufei Jiang</td>
       </tr>
-    </table>    
-<!-- 
+    </table>
+
     This way of listing leadership might be better if I figure out how to do it correctly.
     <ul class="list-group">
       <li class="list-group-item">
@@ -95,18 +124,10 @@
         </span>
       </li>
     </ul> -->
+    <div class="col-md-6">
+      <br/>
+      <a href="/presidents">Previous Presidents</a>
+      <br/>&nbsp;
+    </div>
   </div>
-</div>
-
-<div class="table-responsive" id="previous-presidents">
-  <h3>Previous Presidents</h3>
-
-  <table class="table">
-    <caption>
-       *served in his/her personal capacity
-    </caption>
-    <?php 
-      include('public/functions/getPresidents.php');
-    ?>
-  </table>
 </div>

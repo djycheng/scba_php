@@ -14,7 +14,6 @@
       <li>
         Call us at +1 (XXX) XXX-XXXX
       </li>
-
     </ul>
 
     <form id='contact' method="post">

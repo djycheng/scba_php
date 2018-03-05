@@ -1,0 +1,9 @@
+#previous-presidents caption {
+    caption-side: bottom;
+    font-size: 13px;
+}
+
+#previous-presidents td {
+    padding: 4px;
+    font-size: 14px;
+}

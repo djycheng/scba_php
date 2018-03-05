@@ -1,20 +1,27 @@
+#about-div {
+    height: 100%;
+}
+
 .about {
     text-indent: 30px;
 }
 
-#leadership td {
+/*#leadership td {
     border-top: 0;
     width: auto;
     padding: 4px;
     font-size: 14px;
+}*/
+
+.board-pic {
+    display: block;
 }
 
-#previous-presidents caption {
-    caption-side: bottom;
-    font-size: 13px;
+.board-pic img {
+    max-width: 100%;
+    max-height: 100%;
 }
 
-#previous-presidents td {
-    padding: 4px;
+.board-pic figcaption {
     font-size: 14px;
 }
