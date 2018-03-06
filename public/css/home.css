@@ -1,3 +1,12 @@
+body::after {
+    position: absolute;
+    width: 0;
+    height: 0;
+    overflow: hidden;
+    z-index: -1;
+    content: url("/public/images/KT-Lecture2016-XJMeng.jpg") url("/public/images/SCBA-DC-Picnic2017.jpg");
+}
+
 #header {
     display: block;
     margin: 0 auto;
@@ -15,7 +24,7 @@
 }
 
 #img3 {
-    background-image: url("/public/images/SCBA-CBA-Speakers2017.jpg");
+    background-image: url("/public/images/SCBA-DC-Picnic2017.jpg");
 }
 
 .slider-size {

@@ -16,6 +16,10 @@
       <li class="list-group-item">
         To register, please fill out the form on the right.
       </li>
+
+      <li class="list-group-item">
+        <a href="/public/documents/2018_Annual_Symposium_tentative_program.pdf">2018 Symposium Tentative Schedule</a>
+      </li>
     </ul>
 
     <h3>
@@ -53,6 +57,10 @@
     <h3>
       Registration Form
     </h3>
+
+    <h4>
+      <a href="/public/documents/SCBA-Symposium-Abstract-Form.docx">Abstract Submission Form</a>
+    </h4>
 
     <form>
       <label for="name">

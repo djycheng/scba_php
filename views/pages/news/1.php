@@ -80,7 +80,7 @@
 
             <td class="col-md-6">
               <figure class="newsFigure">
-                <img class="newsImage" src="/public/images/news/1/image6.png">
+                <img class="newsImage" src="/public/images/news/1/image6.jpg">
                 <figcaption>Dr. Paul Liu, President of SCBA, plays violin.</figcaption>
               </figure>
             </td>
@@ -89,7 +89,7 @@
           <tr>
             <td class="col-md-6">
               <figure class="newsFigure">
-                <img class="newsImage" src="/public/images/news/1/image7.png">
+                <img class="newsImage" src="/public/images/news/1/image7.jpg">
                 <figcaption>The NIH-CSSA President, and SCBA member, Dr. Ziyi Liu, plays Guzheng.</figcaption>
               </figure>
             </td>

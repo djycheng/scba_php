@@ -21,14 +21,14 @@
           <tr>
             <td class="col-md-6">
               <figure class="newsFigure">
-                <img class="newsImage" src="/public/images/news/2/image1.jpg">
+                <img class="newsImage" src="/public/images/news/2/image1-small.jpg">
                 <figcaption>Outstanding presentation award finalist.</figcaption>
               </figure>
             </td>
 
             <td class="col-md-6">
               <figure class="newsFigure">
-                <img class="newsImage" src="/public/images/news/2/image2.jpg">
+                <img class="newsImage" src="/public/images/news/2/image2-small.jpg">
                 <figcaption>Meeting group picture</figcaption>
               </figure>
             </td>
@@ -37,14 +37,14 @@
           <tr>
             <td class="col-md-6">
               <figure class="newsFigure">
-                <img class="newsImage" src="/public/images/news/2/image3.jpg">
+                <img class="newsImage" src="/public/images/news/2/image3-small.jpg">
                 <figcaption>At the career discussion panel.</figcaption>
               </figure>
             </td>
 
             <td class="col-md-6">
               <figure class="newsFigure">
-                <img class="newsImage" src="/public/images/news/2/image4.jpg">
+                <img class="newsImage" src="/public/images/news/2/image4-small.jpg">
                 <figcaption>Dr. Ming Lei of National Cancer Institute gave a career development lecture.</figcaption>
               </figure>
             </td>
@@ -53,14 +53,14 @@
           <tr>
             <td class="col-md-6">
               <figure class="newsFigure">
-                <img class="newsImage" src="/public/images/news/2/image5.jpg">
+                <img class="newsImage" src="/public/images/news/2/image5-small.jpg">
                 <figcaption>Dr. Jingping Liu of NCI explained her research to Dr. Wei Yang of NIDDK.</figcaption>
               </figure>
             </td>
 
             <td class="col-md-6">
               <figure class="newsFigure">
-                <img class="newsImage" src="/public/images/news/2/image6.jpg">
+                <img class="newsImage" src="/public/images/news/2/image6-small.jpg">
                 <figcaption>A crowded poster hall.</figcaption>
               </figure>
             </td>
