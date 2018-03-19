@@ -28,9 +28,10 @@ $("#contact").submit(function(event) {
         },
         success: function(data) {
             alert('Message successfully sent!');
+            window.location.replace('/');
         },
         error: function(jqXHR, textStatus, errorThrown) {
-            alert('There was an issue with your message.  Please try again.\nError: ' + errorThrown);
+            alert('There was an issue with your message.  Please try again.  If the error persists, please send an email to info@scbawashingtondc.org.\nError: ' + errorThrown);
         }
     });
 });
