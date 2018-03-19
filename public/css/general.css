@@ -2,6 +2,10 @@ body {
   background-color: #e9ecef;
 }
 
+a {
+    color: #244aed;
+}
+
 .filler {
 	height: 2vh;
 }
@@ -18,4 +22,5 @@ body {
 .list-group-item {
     background-color: transparent;
     border: 0;
+    padding: 7px 15px;
 }

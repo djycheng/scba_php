@@ -3,3 +3,7 @@
     border: transparent;
     color: #ffffff;
 }
+
+#registration td, #registration th {
+    border: none;
+}

@@ -10,6 +10,8 @@
         <li data-target="#carousel" data-slide-to="0" class="active"></li>
         <li data-target="#carousel" data-slide-to="1"></li>
         <li data-target="#carousel" data-slide-to="2"></li>
+        <li data-target="#carousel" data-slide-to="3"></li>
+        <li data-target="#carousel" data-slide-to="4"></li>
       </ol>
       <div id="carousel-inner" class="carousel-inner" role="listbox">
         <div class="item active">
@@ -22,6 +24,14 @@
         </div>
         <div class="item">
           <div id="img3" class="slider-size">
+          </div>
+        </div>
+        <div class="item">
+          <div id="img4" class="slider-size">
+          </div>
+        </div>
+        <div class="item">
+          <div id="img5" class="slider-size">
           </div>
         </div>
       </div>

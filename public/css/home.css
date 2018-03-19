@@ -4,7 +4,7 @@ body::after {
     height: 0;
     overflow: hidden;
     z-index: -1;
-    content: url("/public/images/KT-Lecture2016-XJMeng.jpg") url("/public/images/SCBA-DC-Picnic2017.jpg");
+    content: url("/public/images/KT-Lecture2016-XJMeng.jpg") url("/public/images/SCBA-DC-Picnic2017.jpg") url("/public/images/IMG_4820b.jpg") url("/public/images/DSC_3467b.jpg");
 }
 
 #header {
@@ -15,17 +15,26 @@ body::after {
 }
 
 #img1 {
-    background-image: url("/public/images/SCBA-DC2017-Attendees.jpg");
+    background-image: url("/public/images/IMG_4820b.jpg");
 }
 
 #img2 {
+    background-image: url("/public/images/DSC_3467b.jpg");
+}
+
+#img3 {
+    background-image: url("/public/images/SCBA-DC2017-Attendees.jpg");
+}
+
+#img4 {
     background-image: url("/public/images/KT-Lecture2016-XJMeng.jpg");
 
 }
 
-#img3 {
+#img5 {
     background-image: url("/public/images/SCBA-DC-Picnic2017.jpg");
 }
+
 
 .slider-size {
     height: 500px;
@@ -33,4 +42,8 @@ body::after {
     background-repeat: no-repeat;
     background-position: center;
     background-color: #CCCCCC;
+}
+
+.jumbotron {
+    background-color: inherit;
 }

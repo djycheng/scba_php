@@ -8,11 +8,7 @@
     </b>
     <ul>
       <li>
-        Send an email through the form below
-      </li>
-
-      <li>
-        Call us at +1 (XXX) XXX-XXXX
+        Send an email to <a href="mailto:info@scbawashingtondc.org">info@scbawashingtondc.org</a>.
       </li>
     </ul>
 
@@ -20,7 +16,7 @@
       <label for="name">
         Full Name:
       </label>
-      <input type="text" name="name" id="name" class="form-control">
+      <input type="text" name="name" id="name" class="form-control" required>
       <div class="filler"></div>
       <div class="filler"></div>
 
@@ -41,7 +37,7 @@
       <label for="message" id="messageLabel">
         Message (2000 characters remaining):
       </label>
-      <textarea name="message" id="message" class="form-control" rows="5" onkeyup="allowKeyPress(this)"></textarea>
+      <textarea name="message" id="message" class="form-control" rows="5" onkeyup="allowKeyPress(this)" required></textarea>
       <div class="filler"></div>
       <div class="filler"></div>
 

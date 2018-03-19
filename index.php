@@ -77,6 +77,8 @@
         
           if ($pageName == 'contact') {
             echo "<script src='/public/js/form.js'></script>";
+          } else if ($pageName == 'conference') {
+            echo "<script src='/public/js/conference.js'></script>";
           }
         ?>
 

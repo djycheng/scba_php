@@ -1,15 +1,111 @@
 <h2>
-  About Us:
+  About Us
 </h2>
 
 <div class="row">
   <div class="col-md-8">
+    <h5><b>Mission Statement</b></h5>
     <p class="about">
-      The Society of Chinese Bioscientists in America (SCBA) is a non-profit organization that was established in 1984. The Washington D.C.-Baltimore Chapter of SCBA was formed in 1988 with Dr. Shen Kui Yang, then a professor in Department of Pharmacology at Uniformed Services University of the Health Sciences, as its first Chapter President.
+      The Society of Chinese Bioscientists in America (<a href="http://www.scbasociety.org">SCBA</a>) is a non-profit organization that was established in 1984. The Washington D.C.-Baltimore Chapter of SCBA was formed in 1988, and provides a platform for all bioscientists, with either Chinese or non-Chinese heritage, in the greater Washington D.C. area to communicate and collaborate on science and more.  Its goals are: 
     </p>
-    <p class="about">
-      The Washington DC-Baltimore Chapter provides a platform for bioscientists in the greater Washington D.C. area to communicate and collaborate on science and more. The chapter organizes several academic and social activities annually.
-    </p>
+    <ul class="list-group">
+      <li class="list-group-item">
+        To promote research in biosciences.
+      </li>
+
+      <li class="list-group-item">
+        To advance biological and medical knowledge.
+      </li>
+
+      <li class="list-group-item">
+        To improve occupational opportunities of its members.
+      </li>
+
+      <li class="list-group-item">
+        To facilitate professional networking among members.
+      </li>
+
+      <li class="list-group-item">
+        To establish a spirit of fraternity and international cooperation.
+      </li>
+    </ul>
+  </div>
+
+  <div class="col-md-8">
+    <h5><b>Our members are from:</b></h5>
+
+    <div class="col-md-6">
+      <ul class="list-group">
+        <li class="list-group-item">
+          National Institute of Health (NIH)
+        </li>
+
+        <li class="list-group-item">
+          Food and Drug Administration (FDA)
+        </li>
+
+        <li class="list-group-item">
+          Uniformed Services University of the Health Sciences
+        </li>
+
+        <li class="list-group-item">
+          Johns Hopkins University
+        </li>
+
+        <li class="list-group-item">
+          University of Maryland, Baltimore (UMB)
+        </li>
+
+        <li class="list-group-item">
+          University of Maryland, College Park (UMCP)
+        </li>
+      </ul>
+    </div>
+
+    <div class="col-md-6">
+      <ul class="list-group">
+        <li class="list-group-item">
+          Georgetown University
+        </li>
+
+        <li class="list-group-item">
+          George Mason University
+        </li>
+
+        <li class="list-group-item">
+          George Washington University
+        </li>
+
+        <li class="list-group-item">
+          Children’s National Medical Center 
+        </li>
+
+        <li class="list-group-item">
+          Local industrial and biotechnology companies
+        </li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="col-md-8">
+    <h5><b>The chapter organizes several academic and social activities annually:</b></h5>
+    <ul class="list-group">
+      <li class="list-group-item">
+        Scientific symposium
+      </li>
+
+      <li class="list-group-item">
+        Workshops with <a href="http://www.cba-usa.org">CBA</a>
+      </li>
+
+      <li class="list-group-item">
+        Christmas dinner party
+      </li>
+
+      <li class="list-group-item">
+        Summer picnic and other social gatherings
+      </li>
+    </ul>
   </div>
 </div>
 
@@ -126,7 +222,7 @@
     </ul> -->
     <div class="col-md-6">
       <br/>
-      <a href="/presidents">Previous Presidents</a>
+      <a id="presidentsLink" href="/presidents">Previous Presidents</a>
       <br/>&nbsp;
     </div>
   </div>
