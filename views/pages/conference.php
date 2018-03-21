@@ -204,6 +204,7 @@
       </label>
       <input type="hidden" name="cmd" value="_s-xclick">
       <input type="hidden" name="hosted_button_id" value="X5LGCBQ32F9MS">
+      <input type="hidden" name="rm" value="1">
       <table>
       <tr><td><input type="hidden" name="on0" value="Registration Fee" name="Registration Fee"></td></tr><tr><td><select name="os0" id="payment">
         <option value="Non-Member PI/Staff">Non-Member PI/Staff $250.00 USD</option>
