@@ -95,7 +95,7 @@
       </li>
 
       <li class="list-group-item">
-        Workshops with <a href="http://www.cba-usa.org">CBA</a>
+        K-T Jeang Memorial Lecture
       </li>
 
       <li class="list-group-item">

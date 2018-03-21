@@ -18,14 +18,14 @@
       </li>
 
       <li class="list-group-item">
-        <a href="/public/documents/2018_Annual_Symposium_tentative_program.pdf">2018 Symposium Tentative Schedule</a>
+        <a href="/public/documents/2018_SCBA_DC_Agenda_final.pdf">2018 Symposium Final Schedule</a>
       </li>
     </ul>
 
     <h3>
       Registration Fee
     </h3>
-
+<!-- 
     <table class="table" id="registration">
       <tr>
         <td>
@@ -50,25 +50,7 @@
           Student: $50
         </td>
       </tr>
-    </table>
-
-    <h3>
-      Agendas from Previous Symposiums
-    </h3>
-
-    <ul class="list-group">
-      <li class="list-group-item">
-        <a href="public/documents/2015_SCBA_Scientific_Symposium_Agenda_Final.pdf">2015 Symposium</a>
-      </li>
-
-      <li class="list-group-item">
-        <a href="public/documents/2016_SCBA_Scientific_Symposium_Agenda_Final.pdf">2016 Symposium</a>
-      </li>
-
-      <li class="list-group-item">
-        <a href="public/documents/2017_SCBA_Scientific_Symposium_Agenda_Final.pdf">2017 Symposium</a>
-      </li>
-    </ul>
+    </table> -->
 
 <!--     <ul class="list-group">
       <li class="list-group-item">
@@ -90,11 +72,42 @@
       <li class="list-group-item">
         Student: $50
       </li>
-    </ul>
- -->   
-  </div>
+    </ul> -->
+   
 
-  <div class="col-md-6">
+    <ul class="list-group">
+      <li class="list-group-item">
+        Member PI/Staff: $200 Non-Member PI/Staff: $250 
+      </li>
+
+      <li class="list-group-item">
+        Member Postdoc: $100 Non-Member Postdoc: $150 
+      </li>
+
+      <li class="list-group-item">
+        Student: $50
+      </li>
+    </ul>
+ 
+
+    <h3>
+      Agendas from Previous Symposiums
+    </h3>
+
+    <ul class="list-group">
+      <li class="list-group-item">
+        <a href="public/documents/2015_SCBA_Scientific_Symposium_Agenda_Final.pdf">2015 Symposium</a>
+      </li>
+
+      <li class="list-group-item">
+        <a href="public/documents/2016_SCBA_Scientific_Symposium_Agenda_Final.pdf">2016 Symposium</a>
+      </li>
+
+      <li class="list-group-item">
+        <a href="public/documents/2017_SCBA_Scientific_Symposium_Agenda_Final.pdf">2017 Symposium</a>
+      </li>
+    </ul>
+
     <h3>
       Meeting Highlights
     </h3>
@@ -128,18 +141,15 @@
         Opportunities to interact with local pharmaceutical and industrious representatives to learn about potential jobs and useful products.
       </li>
     </ul>
-
   </div>
-</div>
 
-<div class="row">
   <div class="col-md-6">
     <h3>
       Registration Form
     </h3>
 
     <p>
-      Fill out and submit the form below.  Then, download a copy of the <a href="/public/documents/SCBA-Symposium-Abstract-Form.docx">abstract submission form</a> if you want to submit an abstract and email it to <a href="mailto:info@scbawashingtondc.org">info@scbawashingtondc.org</a>.
+      Fill out and submit the form below.  Then, download a copy of the <a href="/public/documents/SCBA-Symposium-Abstract-Form.docx">abstract submission form</a> if you want to submit an abstract and email it to <a href="mailto:jiang72@gmail.com">jiang72@gmail.com</a>.
     </p>
     <br/>
       
@@ -195,7 +205,7 @@
       <input type="hidden" name="cmd" value="_s-xclick">
       <input type="hidden" name="hosted_button_id" value="X5LGCBQ32F9MS">
       <table>
-      <tr><td><input type="hidden" name="on0" value="Registration Fee" name="Registration Fee"></td></tr><tr><td><select name="os0">
+      <tr><td><input type="hidden" name="on0" value="Registration Fee" name="Registration Fee"></td></tr><tr><td><select name="os0" id="payment">
         <option value="Non-Member PI/Staff">Non-Member PI/Staff $250.00 USD</option>
         <option value="Member PI/Staff">Member PI/Staff $200.00 USD</option>
         <option value="Non-Member Postdoc">Non-Member Postdoc $150.00 USD</option>

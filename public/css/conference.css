@@ -1,9 +1,3 @@
-#submit {
-    background-color: #454770;
-    border: transparent;
-    color: #ffffff;
-}
-
-#registration td, #registration th {
-    border: none;
+#payment {
+    font-size: 14px;
 }
