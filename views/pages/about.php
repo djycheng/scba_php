@@ -5,10 +5,13 @@
 <div class="row">
   <div class="col-md-8">
     <h5><b>Mission Statement</b></h5>
-    <p class="about">
-      The Society of Chinese Bioscientists in America (<a href="http://www.scbasociety.org">SCBA</a>) is a non-profit organization that was established in 1984. The Washington D.C.-Baltimore Chapter of SCBA was formed in 1988, and provides a platform for all bioscientists, with either Chinese or non-Chinese heritage, in the greater Washington D.C. area to communicate and collaborate on science and more.  Its goals are: 
-    </p>
     <ul class="list-group">
+      <li class="list-group-item">
+        <p>
+          The Society of Chinese Bioscientists in America (<a href="http://www.scbasociety.org">SCBA</a>) is a non-profit organization that was established in 1984. The Washington D.C.-Baltimore Chapter of SCBA was formed in 1988, and provides a platform for all bioscientists, with either Chinese or non-Chinese heritage, in the greater Washington D.C. area to communicate and collaborate on science and more.  Its goals are: 
+        </p>
+      </li>
+
       <li class="list-group-item">
         To promote research in biosciences.
       </li>
@@ -34,7 +37,7 @@
   <div class="col-md-8">
     <h5><b>Our members are from:</b></h5>
 
-    <div class="col-md-6">
+    <div class="col-md-6 institutions">
       <ul class="list-group">
         <li class="list-group-item">
           National Institute of Health (NIH)
@@ -62,7 +65,7 @@
       </ul>
     </div>
 
-    <div class="col-md-6">
+    <div class="col-md-6 institutions">
       <ul class="list-group">
         <li class="list-group-item">
           Georgetown University

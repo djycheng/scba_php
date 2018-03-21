@@ -23,6 +23,40 @@
     </ul>
 
     <h3>
+      Meeting Highlights
+    </h3>
+
+    <ul class="list-group">
+      <li class="list-group-item">
+        Outstanding presentations by prominent scientists from the National Institutes of Health, Johns Hopkins, Georgetown University and more.<br/>
+      </li>
+
+      <li class="list-group-item">
+        Keynote speaker: Dr. Chuxia Deng.
+      </li>
+
+      <li class="list-group-item">
+        Opportunities for oral presentations and poster awards with prizes (top 25% submitted).
+      </li>
+
+      <li class="list-group-item">
+        Career panel discussions featured with new PIs who will share their insights for applications of grants and positions, followed by a Q&A from academic and industrious mentors.
+      </li>
+
+      <li class="list-group-item">
+        Networking with PIs and peers in the Washington D.C./Baltimore area.
+      </li>
+
+      <li class="list-group-item">
+        Explore job openings from various PIs at NIH and the Washington D.C./Baltimore area.
+      </li>
+
+      <li class="list-group-item">
+        Opportunities to interact with local pharmaceutical and industrious representatives to learn about potential jobs and useful products.
+      </li>
+    </ul>
+
+    <h3>
       Registration Fee
     </h3>
 <!-- 
@@ -105,40 +139,6 @@
 
       <li class="list-group-item">
         <a href="public/documents/2017_SCBA_Scientific_Symposium_Agenda_Final.pdf">2017 Symposium</a>
-      </li>
-    </ul>
-
-    <h3>
-      Meeting Highlights
-    </h3>
-
-    <ul class="list-group">
-      <li class="list-group-item">
-        Outstanding presentations by prominent scientists from the National Institutes of Health, Johns Hopkins, Georgetown University and more.<br/>
-      </li>
-
-      <li class="list-group-item">
-        Keynote speaker: Dr. Chuxia Deng.
-      </li>
-
-      <li class="list-group-item">
-        Opportunities for oral presentations and poster awards with prizes (top 25% submitted).
-      </li>
-
-      <li class="list-group-item">
-        Career panel discussions featured with new PIs who will share their insights for applications of grants and positions, followed by a Q&A from academic and industrious mentors.
-      </li>
-
-      <li class="list-group-item">
-        Networking with PIs and peers in the Washington D.C./Baltimore area.
-      </li>
-
-      <li class="list-group-item">
-        Explore job openings from various PIs at NIH and the Washington D.C./Baltimore area.
-      </li>
-
-      <li class="list-group-item">
-        Opportunities to interact with local pharmaceutical and industrious representatives to learn about potential jobs and useful products.
       </li>
     </ul>
   </div>
