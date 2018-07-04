@@ -52,11 +52,11 @@
   <div class="row">
     <div class="col-md-4">
       <h4><b>The Annual Scientific Symposium</b></h4>
-      <p>About 100 active members of the SCBA DC Baltimore Chapter convened at the Johns Hopkins University Shady Grove Conference Center situated in Rockville, Maryland on a beautiful Saturday, March 18, 2017.</p>
+      <p>The Annual Scientific Symposium of SCBA DC-Baltimore Chapter was held on a beautiful spring day, March 24, 2018, at the Johns Hopkins University Shady Grove Conference Center in Rockville, Maryland.</p>
     </div>
     <div class="col-md-4">
       <h4><b>The Annual Holiday Gala</b></h4>
-      <p>Tuesday evening, December 19, 2017 was a special night for members and their friends of the SCBA DC Baltimore Chapter, who gathered at the New Forture Chinese restaurant located in Gaithersburg, Maryland for their annual holiday gala.</p>
+      <p>The 2018 SCBA DC-Baltimore chapter holiday party will be held on December 8th, 2018.  We will have Dr. Edison Liu, the CEO of the Jackson Laboratory as our keynote speaker.  Stay tuned for more details.</p>
     </div>
     <div class="col-md-4">
       <h4><b>Register for our Annual Symposium!</b></h4>
@@ -65,11 +65,10 @@
   </div>
   <div class="row":>
     <div class="col-md-4">
-      <p><a class="btn btn-secondary" href="/news/2" role="button">Read More &raquo;</a></p>
+      <p><a class="btn btn-secondary" href="/news/3" role="button">Read More &raquo;</a></p>
     </div>
 
     <div class="col-md-4">
-      <p><a class="btn btn-secondary" href="/news/1" role="button">Read More &raquo;</a></p>
     </div>
 
     <div class="col-md-4">

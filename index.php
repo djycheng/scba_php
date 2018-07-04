@@ -19,7 +19,7 @@
     $next = (string) (strval($article) + 1);
     $rightSide = 'Next Article &raquo';
 
-    if (file_exists($file = $news_path . $prev . '.php')) {
+    if (file_exists($file = $news_path . $prev . '.php') && $prev != '0') {
       $leftSide = '<a href="/news/' . $prev . '">' . $leftSide . '</a>';
 
     }
@@ -69,7 +69,7 @@
 
           }
 
-          if (($pageName == 'news') && ($validNewsArticle == 1)) {
+          if (($pageName == 'news') && ($validNewsArticle == 1) && $article != '0') {
             handleNewsButtons($article);
           }
 

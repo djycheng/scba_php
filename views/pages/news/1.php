@@ -1,38 +1,18 @@
 <div class="row">
   <div class="col-md-12">
     <h3>
-      The 2017 SCBA Washington DC Baltimore Chapter Annual Holiday Gala
+      Meeting Report: The 2017 SCBA DC Baltimore Chapter Annual Scientific Symposium
     </h3>
 
     <h5>
-      Sponsored by the SCBA Washington DC Baltimore Chapter 
+      Xin Wei Wang, President of the SCBA DC Baltimore Chapter
     </h5>
     <br/>
 
     <div class="row">
       <div class="col-md-6">
         <p class="paragraph">
-         Tuesday evening, December 19, 2017 was a special night for members and their friends of the SCBA DC Baltimore Chapter, who gathered at the New Forture Chinese restaurant located in Gaithersburg, Maryland for their annual holiday gala. Eighty some local chapter members and friends, including president of the National Institutes of Health Chinese Students & Scholars Association (NIH-CSSA), Dr. Ziyi Liu and president-elect of the Chinese Biopharmaceutical Association (CBA), Dr. Frank Li, along with many of their members attended this event. Dr. Xin Wei Wang, the chapter President, along with Secretary Dr. Yufei Jiang and President-Elect, Dr. Li Yang and Treasurer, Dr. Ji Juo organized this event. Many volunteers managed the reception desk including party registration and SCBA membership enrollment. Dr. Li Yang gave a welcome remark. Dr. Xin Wei Wang delivered an annual report. In his report, Dr. Wang emphasized the importance of annual scientific symposium sponsored by the SCBA DC Baltimore Chapter, which brings local scientists together to promote scientific communication/collaborations, as well as to provide the social network platforms for our local SCBA members. He also summarized the success of many scientific and social activities for members of our local chapter in 2017, including a sponsorship of the KT Jeang Memorial Lecture, which was delivered by Dr. XJ Meng of the Virginia Tech who discovered swine hepatitis E virus. Dr. Wang pledged the support to continue our partnership with NIH-CSSA. On this spirit, many NIH Investigators/SCBA senior members at NIH served as the scientific adviser for NIH-CSSA, and members from NIH-CSSA also actively participated in SCBA local chapter activities and became SCBA member in 2017. Dr. Ji Luo, Treasurer of the SCBA DC Baltimore Chapter, provided a summary of SCBA local chapter financial report. Dr. Ziyi Liu gave a brief introduction of NIH-CSSA and their annual activities in 2017. Dr. Frank Li provided an overview about CBA and its activities and a pledge to continue our long term partnership and strong connection among local Chinese societies. An example includes our joint workshop to be held in the 2017 CBA Annual Scientific conference. Three SCBA active members/NIH investigators, Drs. Chengkai Dai, Chun Zhang Yang, Yihong Ye were the featured speakers in this workshop co-chaired by Dr. Wang and Dr. Yali Fu, a member of CBA. 
-        </p>
-        
-        <p class="paragraph">
-          A major feature of this year’s holiday gala was a keynote talk delivered by Dr. Hannah Valantine, a physician scientist who also serves as Chief Officer for Scientific Workforce at NIH. The title of her talk is “Leadership Promotion in Asian Scientists”. In addition, she also briefly introduced her cardiological research. Her talk was very well-received.
-        </p>
-
-        <p class="paragraph">
-          Another new activity at the gala was dinner entertainment brought by our members, Dr. Ziyi Liu who played Guzheng and Dr. Paul Liu who played violin. Their music brought joy and festivities to our gala. 
-        </p>
-
-        <p class="paragraph">
-          At the dinner party, Dr. Ji Luo was elected as the President –Elect for SCBA DC Baltimore Chapter. He is an Investigator at the National Cancer Institute (NCI), NIH and a strong supporter to SCBA DC-Baltimore Chapter.
-        </p>
-
-        <p class="paragraph">
-          At the dinner party, Dr. Xin Wei Wang and Dr. Yufei Jiang received an award from our chapter in recognition of their outstanding leadership and service to the Chapter. 
-        </p>
-
-        <p class="paragraph">
-          A total of 82 scientists from local universities, NIH and FDA attended this year’s Holiday gala.
+          About 100 active members of the SCBA DC Baltimore Chapter convened at the Johns Hopkins University Shady Grove Conference Center situated in Rockville, Maryland on a beautiful Saturday, March 18, 2017. The symposium was successfully co-organized by life members, Dr. Zhe Han of Children’s National Health System and Dr. Li Yang of National Cancer Institute who also is a president-elect of the SCBA DC Baltimore Chapter. This meeting was also co-sponsored by NIH-CSSA. With the help from many senior members of our local chapter, a strong scientific program that includes 4 scientific sessions, a poster session and a career development session was developed. Scientific topics include genetics, epigenetics and gene regulation, inflammation and immunity, cell and developmental biology, as well as disease model and drug screening. Fifteen senior investigators and professors from the Johns Hopkins University, University of Maryland, Children’s National Health system and NIH delivered faculty talks. At the career panel discussion, Drs. Ming Lei, Chief of the Cancer Training Branch of National Cancer Institute and Shou-Bai Chao, Chairman of the Centus Biotherapeutics provided insightful career advance to the trainees. This session was a highlight of this symposium. The organizer also received 25 abstracts; 4 were selected for short talks. Nine poster and short talk presenters were selected as the winner for the best presentation award. The abstract selection committee consisted of Drs. Bin Gao of NIAAA, Yang Liu of Children’s National, Bin Zhao and Ling Yang, president and vice president of NIH-CSSA, respectively. Dr. Yufei Jiang, the secretary of the SCBA DC Baltimore Chapter, effectively managed all meeting logistics. Many volunteers from the NIH-CSSA also helped with the meeting. Dr. Shi Yang from the Harvard University delivered an outstanding keynote lecture. The SCBA DC Baltimore Chapter symposium was a great success.
         </p>
       </div>
 
@@ -41,31 +21,15 @@
           <tr>
             <td class="col-md-6">
               <figure class="newsFigure">
-                <img class="newsImage" src="/public/images/news/1/image1.jpg">
-                <figcaption>2017 Holiday Gala group photo.</figcaption>
+                <img class="newsImage" src="/public/images/news/2/image1-small.jpg">
+                <figcaption>Outstanding presentation award finalist.</figcaption>
               </figure>
             </td>
 
             <td class="col-md-6">
               <figure class="newsFigure">
-                <img class="newsImage" src="/public/images/news/1/image2.jpg">
-                <figcaption>Dr. Hannah Valantine answered a question by Dr. Paul Liu during her keynote speech.</figcaption>
-              </figure>
-            </td>
-          </tr>
-
-          <tr>
-            <td class="col-md-6">
-              <figure class="newsFigure">
-                <img class="newsImage" src="/public/images/news/1/image3.jpg">
-                <figcaption>The chapter President-Elect, Dr. Li Yang, delivered welcome remarks.</figcaption>
-              </figure>
-            </td>
-
-            <td class="col-md-6">
-              <figure class="newsFigure">
-                <img class="newsImage" src="/public/images/news/1/image4.jpg">
-                <figcaption>Dr. Ji Luo, the current Treasurer of SCBA DC Baltimore Chapter, provided a summary of 2017 financial report..</figcaption>
+                <img class="newsImage" src="/public/images/news/2/image2-small.jpg">
+                <figcaption>Meeting group picture</figcaption>
               </figure>
             </td>
           </tr>
@@ -73,15 +37,15 @@
           <tr>
             <td class="col-md-6">
               <figure class="newsFigure">
-                <img class="newsImage" src="/public/images/news/1/image5.jpg">
-                <figcaption>Dr. Xin Wei Wang, President of SCBA DC Baltimore Chapter, delivered annual report.</figcaption>
+                <img class="newsImage" src="/public/images/news/2/image3-small.jpg">
+                <figcaption>At the career discussion panel.</figcaption>
               </figure>
             </td>
 
             <td class="col-md-6">
               <figure class="newsFigure">
-                <img class="newsImage" src="/public/images/news/1/image6.jpg">
-                <figcaption>Dr. Paul Liu, President of SCBA, plays violin.</figcaption>
+                <img class="newsImage" src="/public/images/news/2/image4-small.jpg">
+                <figcaption>Dr. Ming Lei of National Cancer Institute gave a career development lecture.</figcaption>
               </figure>
             </td>
           </tr>
@@ -89,8 +53,15 @@
           <tr>
             <td class="col-md-6">
               <figure class="newsFigure">
-                <img class="newsImage" src="/public/images/news/1/image7.jpg">
-                <figcaption>The NIH-CSSA President, and SCBA member, Dr. Ziyi Liu, plays Guzheng.</figcaption>
+                <img class="newsImage" src="/public/images/news/2/image5-small.jpg">
+                <figcaption>Dr. Jingping Liu of NCI explained her research to Dr. Wei Yang of NIDDK.</figcaption>
+              </figure>
+            </td>
+
+            <td class="col-md-6">
+              <figure class="newsFigure">
+                <img class="newsImage" src="/public/images/news/2/image6-small.jpg">
+                <figcaption>A crowded poster hall.</figcaption>
               </figure>
             </td>
           </tr>
