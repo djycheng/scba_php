@@ -4,11 +4,11 @@
 
 <div class="row">
   <div class="col-md-8">
-    <h5><b>Mission Statement</b></h5>
+    <h4><b>Mission Statement</b></h4>
     <ul class="list-group">
       <li class="list-group-item">
-        <p>
-          The Society of Chinese Bioscientists in America (<a href="http://www.scbasociety.org">SCBA</a>) is a non-profit organization that was established in 1984. The Washington D.C.-Baltimore Chapter of SCBA was formed in 1988, and provides a platform for all bioscientists, with either Chinese or non-Chinese heritage, in the greater Washington D.C. area to communicate and collaborate on science and more.  Its goals are: 
+     
+The Society of Chinese Bioscientists in America (<a href="http://www.scbasociety.org">SCBA</a>) is a non-profit organization that was established in 1984. The Washington D.C.-Baltimore Chapter of SCBA was formed in 1988, and provides a platform for all ethnic Chinese bioscientists, or anyone who are interested in biological sciences, in the greater Washington D.C. area to communicate and collaborate on science and more.  Its goals are: 
         </p>
       </li>
 
@@ -35,7 +35,7 @@
   </div>
 
   <div class="col-md-8">
-    <h5><b>Our members are from:</b></h5>
+    <h4><b>Our members are from:</b></h4>
 
     <div class="col-md-6 institutions">
       <ul class="list-group">
@@ -48,10 +48,6 @@
         </li>
 
         <li class="list-group-item">
-          Uniformed Services University of the Health Sciences
-        </li>
-
-        <li class="list-group-item">
           Johns Hopkins University
         </li>
 
@@ -61,6 +57,10 @@
 
         <li class="list-group-item">
           University of Maryland, College Park (UMCP)
+        </li>
+
+        <li class="list-group-item">
+          Local industrial and biotechnology companies
         </li>
       </ul>
     </div>
@@ -84,14 +84,14 @@
         </li>
 
         <li class="list-group-item">
-          Local industrial and biotechnology companies
+          Uniformed Services University of the Health Sciences
         </li>
       </ul>
     </div>
   </div>
 
   <div class="col-md-8">
-    <h5><b>The chapter organizes several academic and social activities annually:</b></h5>
+    <h4><b>The chapter organizes several academic and social activities annually:</b></h4>
     <ul class="list-group">
       <li class="list-group-item">
         Scientific symposium

@@ -18,7 +18,7 @@
       </li>
 
       <li class="list-group-item">
-        <a href="/public/documents/2018_SCBA_DC_Agenda_final.pdf">2018 Symposium Final Schedule</a>
+        <a href="/public/documents/2018_SCBA_Scientific_Symposium_Agenda Final.pdf">2018 Symposium Final Schedule</a>
       </li>
     </ul>
 
@@ -111,11 +111,11 @@
 
     <ul class="list-group">
       <li class="list-group-item">
-        Member PI/Staff: $200 Non-Member PI/Staff: $250 
+        Member PI/Staff: $200, Non-Member PI/Staff: $250 
       </li>
 
       <li class="list-group-item">
-        Member Postdoc: $100 Non-Member Postdoc: $150 
+        Member Postdoc: $100, Non-Member Postdoc: $150 
       </li>
 
       <li class="list-group-item">

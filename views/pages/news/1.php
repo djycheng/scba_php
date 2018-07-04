@@ -74,7 +74,7 @@
             <td class="col-md-6">
               <figure class="newsFigure">
                 <img class="newsImage" src="/public/images/news/1/image5.jpg">
-                <figcaption>Dr. Paul Liu, President of SCBA, plays violin.</figcaption>
+                <figcaption>Dr. Xin Wei Wang, President of SCBA DC Baltimore Chapter, delivered annual report.</figcaption>
               </figure>
             </td>
 
