@@ -32,7 +32,7 @@
       </li>
 
       <li class="list-group-item">
-        Keynote speaker: Dr. Chuxia Deng.
+        Keynote speaker: TBD.
       </li>
 
       <li class="list-group-item">
