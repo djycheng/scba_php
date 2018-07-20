@@ -10,7 +10,7 @@
 
     <ul class="list-group">
       <li class="list-group-item">
-        The 2018 SCBA annual symposium will be held at Johns Hopkins University, Shady Grove Campus on Saturday, March 24, 2018.
+        The 2019 SCBA annual symposium will be held at the University of Maryland, College Park on Saturday, March 16, 2019.
       </li>
 
       <li class="list-group-item">
@@ -18,7 +18,7 @@
       </li>
 
       <li class="list-group-item">
-        <a href="/public/documents/2018_SCBA_Scientific_Symposium_Agenda Final.pdf">2018 Symposium Final Schedule</a>
+        <a href="/public/documents/SCBA_2019_AS_flyer.pdf">2019 Symposium Flyer</a>
       </li>
     </ul>
 
@@ -59,55 +59,6 @@
     <h3>
       Registration Fee
     </h3>
-<!-- 
-    <table class="table" id="registration">
-      <tr>
-        <td>
-          Member PI/Staff: $200
-        </td>
-        <td>
-          Non-Member PI/Staff: $250
-        </td>
-      </tr>
-
-      <tr>
-        <td>
-          Member Postdoc: $100
-        </td>
-        <td>
-          Non-Member Postdoc: $150
-        </td>
-      </tr>
-
-      <tr>
-        <td>
-          Student: $50
-        </td>
-      </tr>
-    </table> -->
-
-<!--     <ul class="list-group">
-      <li class="list-group-item">
-        Non-Member PI/Staff: $250
-      </li>
-
-      <li class="list-group-item">
-        Member PI/Staff: $200
-      </li>
-
-      <li class="list-group-item">
-        Non-Member Postdoc: $150
-      </li>
-
-      <li class="list-group-item">
-        Member Postdoc: $100
-      </li>
-
-      <li class="list-group-item">
-        Student: $50
-      </li>
-    </ul> -->
-   
 
     <ul class="list-group">
       <li class="list-group-item">
@@ -123,22 +74,25 @@
       </li>
     </ul>
  
-
     <h3>
       Agendas from Previous Symposiums
     </h3>
 
     <ul class="list-group">
       <li class="list-group-item">
-        <a href="public/documents/2015_SCBA_Scientific_Symposium_Agenda_Final.pdf">2015 Symposium</a>
+        <a href="/public/documents/2018_SCBA_Scientific_Symposium_Agenda Final.pdf">2018 Symposium</a>
       </li>
 
       <li class="list-group-item">
-        <a href="public/documents/2016_SCBA_Scientific_Symposium_Agenda_Final.pdf">2016 Symposium</a>
+        <a href="/public/documents/2017_SCBA_Scientific_Symposium_Agenda_Final.pdf">2017 Symposium</a>
       </li>
 
       <li class="list-group-item">
-        <a href="public/documents/2017_SCBA_Scientific_Symposium_Agenda_Final.pdf">2017 Symposium</a>
+        <a href="/public/documents/2016_SCBA_Scientific_Symposium_Agenda_Final.pdf">2016 Symposium</a>
+      </li>
+
+      <li class="list-group-item">
+        <a href="/public/documents/2015_SCBA_Scientific_Symposium_Agenda_Final.pdf">2015 Symposium</a>
       </li>
     </ul>
   </div>
