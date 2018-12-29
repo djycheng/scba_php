@@ -56,11 +56,11 @@
     </div>
     <div class="col-md-4">
       <h4><b>The Annual Holiday Gala</b></h4>
-      <p>The 2018 SCBA DC-Baltimore chapter holiday party will be held on December 8th, 2018.  We will have Dr. Edison Liu, the CEO of the Jackson Laboratory as our keynote speaker.  Stay tuned for more details.</p>
+      <p>The 2018 SCBA DC-Baltimore chapter holiday Lunch was held on December 8th, 2018, 11:30 AM to 2:40 PM at New Fortune in Gaithersburg, Maryland.  Dr. Edison Liu, the CEO of the Jackson Laboratory, was our keynote speaker and he presented a talk titled: <a href="https://drive.google.com/file/d/1TnujjhTNg2C6EoUmRwyvjYLEq39kByuG/view?usp=sharing">From Follower to Leader: Navigating American Science</a>.</p>
     </div>
     <div class="col-md-4">
       <h4><b>Register for our Annual Symposium!</b></h4>
-      <p>The 2018 SCBA annual symposium will be held at Johns Hopkins University, Shady Grove Campus on Saturday, March 24, 2018.</p>
+      <p>The 2019 SCBA annual symposium will be held at University of Maryland, College Park Campus on Saturday, March 16, 2019.</p>
     </div>
   </div>
   <div class="row":>
@@ -69,6 +69,7 @@
     </div>
 
     <div class="col-md-4">
+      <p><a class="btn btn-secondary" href="/news/4" role="button">Read More &raquo;</a></p>
     </div>
 
     <div class="col-md-4">

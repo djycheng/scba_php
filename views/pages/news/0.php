@@ -13,6 +13,15 @@
 
     <tr>
       <td>
+        <a href="/news/4">The 2018 SCBA Washington DC-Baltimore Chapter Annual Holiday Party</a>
+      </td>
+      <td>
+        12/08/2018
+      </td>
+    </tr>
+
+    <tr>
+      <td>
         <a href="/news/3">Meeting Report: The 2018 SCBA DC Baltimore Chapter Annual Scientific Symposium</a>
       </td>
       <td>
