@@ -96,7 +96,7 @@
           <tr>
             <td class="col-md-6">
               <figure class="newsFigure">
-                <img class="newsImage" src="/public/images/news/4/Ziyi_Liu_Perf.jpg">
+                <img class="newsImage" src="/public/images/news/4/Ziyi_Liu_perf.jpg">
                 <figcaption>Ziyi Liu 古筝: 渔舟唱晚和女儿情.</figcaption>
               </figure>
             </td>
