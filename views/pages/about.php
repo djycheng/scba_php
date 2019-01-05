@@ -120,15 +120,15 @@ The Society of Chinese Bioscientists in America (<a href="http://www.scbasociety
 
     <span class="col-md-3">
       <figure class="board-pic">
-        <img src="/public/images/board/yang-li.jpg">
-        <figcaption>President:<br/>Dr. Li Yang</figcaption>
+        <img src="/public/images/board/luo-ji.jpg">
+        <figcaption>President:<br/>Dr. Ji Luo</figcaption>
       </figure>
     </span>
 
     <span class="col-md-3">
       <figure class="board-pic">
-        <img src="/public/images/board/luo-ji.jpg">
-        <figcaption>President-Elect:<br/>Dr. Ji Luo</figcaption>
+        <img src="/public/images/board/yang-liu.jpg">
+        <figcaption>President-Elect:<br/>Dr. Yang Liu</figcaption>
       </figure>
     </span>
 
@@ -223,10 +223,10 @@ The Society of Chinese Bioscientists in America (<a href="http://www.scbasociety
         </span>
       </li>
     </ul> -->
-    <div class="col-md-6">
-      <br/>
-      <a id="presidentsLink" href="/presidents">Previous Presidents</a>
-      <br/>&nbsp;
-    </div>
+  </div>
+  <div class="col-md-6">
+    <br/>
+    <a id="presidentsLink" href="/presidents">Previous Presidents</a>
+    <br/>&nbsp;
   </div>
 </div>
