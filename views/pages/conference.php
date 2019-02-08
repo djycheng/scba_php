@@ -32,7 +32,7 @@
       </li>
 
       <li class="list-group-item">
-        Keynote speaker: TBD.
+        Keynote speaker: <a href="http://www.med.tsinghua.edu.cn/Person?method=102&perId=6">Dr. Chen Dong</a>.
       </li>
 
       <li class="list-group-item">
