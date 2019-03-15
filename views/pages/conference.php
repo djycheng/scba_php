@@ -18,7 +18,7 @@
       </li>
 
       <li class="list-group-item">
-        <a href="/public/documents/SCBA_2019_AS_flyer.pdf">2019 Symposium Flyer</a>
+        <a href="/public/documents/2019_AS_Agenda_Final4.pdf">2019 Symposium Agenda</a>
       </li>
     </ul>
 
